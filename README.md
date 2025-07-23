@@ -1,5 +1,5 @@
 # SW2URDF ROS2
-
+**If you want to export ROS2 function packages directly in solidworks, please see this project https://github.com/fish1sheep/solidworks_urdf_exporter**
 ## Environment Setup
 
 1. Ubuntu
